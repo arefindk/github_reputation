@@ -1,0 +1,42 @@
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.Rhistory
+*.pdf
+*.Rdata
+*.dat
+*.eps
+*.png
+*.pyc
+
+# Ignore Mac DS_Store files
+.DS_Store
+
+# Ignoring the csv and zipped files
+*.csv
+*.zip
+*.graphml
+*.dat
+
+# I don't have any json config file here, most of them are big data file. So I am ignoring them
+*.json
