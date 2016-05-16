@@ -40,3 +40,9 @@
 
 # I don't have any json config file here, most of them are big data file. So I am ignoring them
 *.json
+
+# For ipython notebooks, ignoring the notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignoring the data folder
+/data
